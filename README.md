@@ -1,5 +1,5 @@
 # Deprecated！
-Support-v7 24.2.0 以上的版本提供了[SnapHelper](https://developer.android.com/reference/android/support/v7/widget/SnapHelper.html)，可以很方便的实现此功能，请使用此类。
+Support-v7 24.2.0 以上的版本提供了[SnapHelper](https://developer.android.com/reference/android/support/v7/widget/SnapHelper.html)，可以很方便的实现这种效果。本项目不再维护。
 
 # CleverRecyclerView
 CleverRecyclerView 是一个基于RecyclerView的扩展库，提供了与ViewPager类似的滑动效果并且添加了一些有用的特性。
