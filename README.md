@@ -1,7 +1,10 @@
-#CleverRecyclerView
+# Deprecated！
+Support-v7 24.2.0 以上的版本提供了[SnapHelper](https://developer.android.com/reference/android/support/v7/widget/SnapHelper.html)，可以很方便的实现此功能，请使用此类。
+
+# CleverRecyclerView
 CleverRecyclerView 是一个基于RecyclerView的扩展库，提供了与ViewPager类似的滑动效果并且添加了一些有用的特性。
 
-##效果图
+## 效果图
 
 <img src="https://github.com/luckyandyzhang/CleverRecyclerView/blob/master/art/s1.gif" width="300">  
 
@@ -9,7 +12,7 @@ CleverRecyclerView 是一个基于RecyclerView的扩展库，提供了与ViewPag
 
 <img src="https://github.com/luckyandyzhang/CleverRecyclerView/blob/master/art/s3.gif" width="300">  
 
-##特性
+## 特性
 
 - 支持横/纵向滚动
 - 支持设置一页可显示的item数量
@@ -18,7 +21,7 @@ CleverRecyclerView 是一个基于RecyclerView的扩展库，提供了与ViewPag
 - 支持页面切换的监听
 - ......
 
-##使用方法
+## 使用方法
 
 在 `build.gradle` 加入如下依赖：
 
@@ -50,7 +53,7 @@ recyclerView.setAdapter(new CleverAdapter());
 ```
 
 
-##开源协议
+## 开源协议
 
     Copyright 2015 Andy
 
